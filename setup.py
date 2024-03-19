@@ -89,7 +89,7 @@ setup(
     license = "MIT",
     install_requires=['tensorflow', 'numpy', 'pandas', 'scikit-image', 'pyannote.core', 'matplotlib', 'Pyro4', 'pytextgrid', 'soundfile', 'onnxruntime-gpu'], #'torch'
  #   keywords = "example documentation tutorial",
-    url = "https://github.com/ina-foss/inaSpeechSegmenter",
+    url = "https://github.com/KshitizTripathi/Speech-Partition-New-Package/Speech-Partition",
 #    packages=['inaSpeechSegmenter'],
     keywords = KEYWORDS,
     packages = find_packages(),
